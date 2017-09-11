@@ -1,0 +1,23 @@
+[Exercitiul 1]
+Sa se implementeze o metoda care primeste 2 array-uri sortate ca si input si produce un array sortat ca si output, care reprezinta combinarea (merge-ul) dintre cele doua array-uri de la intrare.
+ 
+Exemplu:
+a1 = 1 3 5 10 40
+a2 = 4 4 7 20 50
+=>  metoda va returna array-ul 1 3 4 4 5 7 10 20 40 50
+
+
+___________________________________________________________________________________________________________
+public class Merger {
+    public static void main (string [] args) {
+    
+    
+    }
+    private static int[] merge(int[] a1, int[] a2 ){
+    for i = 0 
+    
+    
+    }
+}
+
+
